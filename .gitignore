@@ -4,5 +4,5 @@ __pycache__
 build/
 .idea/
 .vscode/
-node_modules/
+e_modules/
 .env
